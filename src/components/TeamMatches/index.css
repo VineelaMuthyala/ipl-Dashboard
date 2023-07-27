@@ -1,0 +1,55 @@
+.team-matches-container {
+  background-image: linear-gradient(#a4261d, #1e293b);
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 70%;
+}
+.bg-team-matches-container {
+  background-image: linear-gradient(#a4261d, #1e293b);
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 70%;
+  height: 100vh;
+}
+.banner-image {
+  width: 90%;
+  padding: 10px;
+  border-radius: 5px;
+  height: 200px;
+  margin-top: 30px;
+}
+.list-match-card {
+  list-style-type: none;
+  padding: 0px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-size: 10px;
+  color: white;
+  align-self: flex-start;
+  margin-left: 50px;
+}
+ul {
+  list-style-type: none;
+  padding: 0px;
+}
+.list-latest-match {
+  list-style-type: none;
+  padding: 0px;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
